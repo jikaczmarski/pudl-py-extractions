@@ -1,0 +1,5 @@
+.venv/
+derived-data/
+src/
+*.py
+.DS_Store
